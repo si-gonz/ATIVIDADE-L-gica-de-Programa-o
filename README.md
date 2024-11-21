@@ -1,4 +1,5 @@
 <b>ATIVIDADE - Lógica de Programação</b>
+
 INTRO-CS4 - Concepção de algoritmos e solução de problemas - Avançado
 
 Instruções gerais: Utilize o Portugol Studio ou o Portugol Studio – On-line para desenvolver os algoritmos.
