@@ -1,4 +1,4 @@
-# ATIVIDADE-Lógica de Programação
+# ATIVIDADE - Lógica de Programação
 INTRO-CS4 - Concepção de algoritmos e solução de problemas - Avançado
 
 Instruções gerais:
